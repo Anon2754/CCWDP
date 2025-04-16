@@ -10,3 +10,5 @@ Rule number 1 in life: Take Care of your feet
 Rule number 7 in life: Figure it out
 
 Feat(1.1):completed intro_report.py and first print tests
+
+Feat(1.2):completed user_report.py
