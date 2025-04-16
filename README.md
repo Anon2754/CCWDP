@@ -8,3 +8,5 @@ The goal is to combine coding and Calisthenics to achieve both intellectual and 
 Rule number 1 in life: Take Care of your feet
 
 Rule number 7 in life: Figure it out
+
+Feat(1.1):completed intro_report.py and first print tests
